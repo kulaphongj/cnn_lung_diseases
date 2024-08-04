@@ -1,5 +1,5 @@
 # CNNs for Lung Diseases Classification
-Applying CNNs with Ling Diseases based on the paper.  
+Applying CNNs with Lung Diseases based on the paper.  
 
 Reference:  
 LungNet22: A Fine-Tuned Model for Multiclass Classification and Prediction of Lung Disease Using X-ray Images   
